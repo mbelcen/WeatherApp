@@ -332,3 +332,67 @@ https://www.metaweather.com/api/location/615702
 https://www.prevision-meteo.ch/services/json/paris
 12-01-2018 19:12:28 - [200 OK]
 https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text%3D%22paris%22)&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys
+4-111-2018 20:19:4 - [200 OK]
+https://www.metaweather.com/api/location/search/?query=paris
+4-111-2018 20:19:5 - [200 OK]
+https://www.metaweather.com/api/location/615702
+4-111-2018 20:19:5 - [200 OK]
+https://www.prevision-meteo.ch/services/json/paris
+4-111-2018 20:19:6 - [200 OK]
+https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text%3D%22paris%22)&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys
+4-111-2018 20:20:37 - [200 OK]
+https://www.metaweather.com/api/location/search/?query=paris
+4-111-2018 20:20:38 - [200 OK]
+https://www.metaweather.com/api/location/615702
+4-111-2018 20:20:38 - [200 OK]
+https://www.prevision-meteo.ch/services/json/paris
+4-111-2018 20:20:39 - [200 OK]
+https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text%3D%22paris%22)&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys
+4-111-2018 20:20:44 - [200 OK]
+https://www.metaweather.com/api/location/search/?query=paris
+4-111-2018 20:20:45 - [200 OK]
+https://www.metaweather.com/api/location/615702
+4-111-2018 20:20:45 - [200 OK]
+https://www.prevision-meteo.ch/services/json/paris
+4-111-2018 20:20:46 - [200 OK]
+https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text%3D%22paris%22)&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys
+4-111-2018 20:22:24 - [200 OK]
+https://www.metaweather.com/api/location/search/?query=paris
+4-111-2018 20:22:25 - [200 OK]
+https://www.metaweather.com/api/location/615702
+4-111-2018 20:22:25 - [200 OK]
+https://www.prevision-meteo.ch/services/json/paris
+4-111-2018 20:22:26 - [200 OK]
+https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text%3D%22paris%22)&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys
+4-111-2018 20:22:31 - [200 OK]
+https://www.metaweather.com/api/location/search/?query=paris
+4-111-2018 20:22:32 - [200 OK]
+https://www.metaweather.com/api/location/615702
+4-111-2018 20:22:32 - [200 OK]
+https://www.prevision-meteo.ch/services/json/paris
+4-111-2018 20:22:33 - [200 OK]
+https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text%3D%22paris%22)&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys
+4-111-2018 20:22:42 - [200 OK]
+https://www.metaweather.com/api/location/search/?query=paris
+4-111-2018 20:22:42 - [200 OK]
+https://www.metaweather.com/api/location/615702
+4-111-2018 20:22:43 - [200 OK]
+https://www.prevision-meteo.ch/services/json/paris
+4-111-2018 20:22:43 - [200 OK]
+https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text%3D%22paris%22)&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys
+4-111-2018 20:23:6 - [200 OK]
+https://www.metaweather.com/api/location/search/?query=paris
+4-111-2018 20:23:6 - [200 OK]
+https://www.metaweather.com/api/location/615702
+4-111-2018 20:23:7 - [200 OK]
+https://www.prevision-meteo.ch/services/json/paris
+4-111-2018 20:23:8 - [200 OK]
+https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text%3D%22paris%22)&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys
+4-111-2018 20:25:34 - [200 OK]
+https://www.metaweather.com/api/location/search/?query=paris
+4-111-2018 20:25:35 - [200 OK]
+https://www.metaweather.com/api/location/615702
+4-111-2018 20:25:35 - [200 OK]
+https://www.prevision-meteo.ch/services/json/paris
+4-111-2018 20:25:36 - [200 OK]
+https://query.yahooapis.com/v1/public/yql?q=select%20*%20from%20weather.forecast%20where%20woeid%20in%20(select%20woeid%20from%20geo.places(1)%20where%20text%3D%22paris%22)&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys
