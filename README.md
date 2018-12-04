@@ -1,6 +1,6 @@
 # WeatherApp
 
-#This as app developed using OOP in Java.
+#This as an app developed using OOP in Java.
 
 It extracts weather forecast from MetaWeather, P-Meteo (French), Yahoo REST APIs and displays them on the screen. Temperature (C, F), humidity
 
