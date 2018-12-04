@@ -1,0 +1,13 @@
+Étapes 1 à 6: 
+	Complétées
+
+Étapes 7
+	* Complétés: 
+		-Erreurs de ligne de commande
+			+ Nombre de jours: Doit être présent après -j, < 5, parsable en 			  entier
+			+ Temperature (unité): -m doit être suivi de F ou C
+			+ Fichier historique: -a ou -o doivent être suivis d'un nom de fichier valide
+
+	* Non complétés		
+		- Problème   de   connexion   à   une   API
+		- Localisation   inconnue
